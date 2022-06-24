@@ -1,0 +1,50 @@
+.heading {
+    font-size: 40px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(maroon 0%, green 100%) !important;
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+h1, h3 {
+    font-family: 'Send Flowers', cursive;
+    font-weight: 600;
+    color: white;
+}
+
+canvas {
+    border-width: 10px;
+    border-color: deepskyblue;
+    border-style: groove;
+    margin-bottom: 10px;
+}
+
+#mycarousel {
+    background-color: red;
+    height:400px; 
+}
+
+
+#mycarousel img {
+    height:300px;
+    margin-top: 35px;
+}
+
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+iframe {
+    margin-top: 10px;
+}
+
+.manual {
+    margin-left: 520px; 
+}
